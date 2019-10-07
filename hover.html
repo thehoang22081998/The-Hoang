@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>hover</title>
+    <link rel="stylesheet" href="hovercss.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <img src="1.png">
+                    <h3>Facebook</h3>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <p>Đây là facebook của Thế Hoàng, nếu bạn thấy anh ấy đẹp trai hãy kết bạn với anh ấy nhé</p>
+                    <a href="https://www.facebook.com/">Click</a>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <img src="2.png">
+                    <h3>Youtube</h3>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <p>Đây là Youtobe, nếu bạn muốn xem phim hãy click vào đây</p>
+                    <a href="https://www.youtube.com/">Click</a>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <img src="3.png">
+                    <h3>Email</h3>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <p>Và đây là Email của anh ấy</p>
+                    <a href="https://mail.google.com">Click</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
